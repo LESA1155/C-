@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/css">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>bdsql.png</file>
+        <file>device.png</file>
+        <file>createTab.png</file>
+        <file>do1.png</file>
+    </qresource>
+</RCC>

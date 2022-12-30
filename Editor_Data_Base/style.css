@@ -1,0 +1,156 @@
+/*
+#buttonGeneralSettings,#buttonRooms,#buttonHubs,#buttonGroups,#buttonDevices,
+#buttonUnits,#buttonAllocationDevices,#buttonTable,#buttonSql,#buttonErrors,
+#buttonNets,#buttonRedirectMsg,#buttonAllocationUnits:checked
+*/
+
+QPushButton#buttonGeneralSettings,#buttonRooms,#buttonHubs,#buttonGroups,#buttonDevices,#buttonUnits,#buttonAllocationDevices,#buttonTable,#buttonSql,#buttonErrors,#buttonNets,#buttonRedirectMsg,#buttonAllocationUnits
+{
+      color:white;
+      background-color: DarkSlateGrey;
+      border-style: outset;
+      border-width: 1px;
+      border-radius: 10px;
+      border-color: black;
+      padding: 6px;
+}
+
+QPushButton#buttonGeneralSettings:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonRooms:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonHubs:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonGroups:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonDevices:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonUnits:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+QPushButton#buttonAllocationDevices:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+QPushButton#buttonTable:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonSql:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonErrors:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
+QPushButton#buttonNets:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+QPushButton#buttonRedirectMsg:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+QPushButton#buttonAllocationUnits:checked
+{
+color:white;
+background-color: DarkSlateGrey;
+border-style: outset;
+border-width: 1.5px;
+border-radius: 10px;
+border-color: green;
+padding: 6px;
+}
+
